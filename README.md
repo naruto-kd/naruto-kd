@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Dinesh.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning Python, Full Stack Developer.
