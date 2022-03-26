@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Dinesh.
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Python, Full Stack Developer.
+Hello Everyone!, 
+  Welcome to my Portfolio.
+  
+  I am a Software Engineering Student who is currently interested to get into companies.
